@@ -2,9 +2,9 @@
 
 ### Group Members :point_down:
 IT21053528 - Surith Arawwala<br>
-IT21077692 - Kavindu Kasthurirathne
-IT20229016 - Chehan Weerasinghe
-IT21016066 - Minuli Samaraweera
+IT21077692 - Kavindu Kasthurirathne<br>
+IT20229016 - Chehan Weerasinghe<br>
+IT21016066 - Minuli Samaraweera<br>
 
 ### Brief Description of your Solution - 
 This is a social media web application designed for food lovers and reviewers, built using Spring Boot for the backend and REST API for data communication, and React JS 
