@@ -1,7 +1,7 @@
 ## TasteBuds Social Media Application
 
 ### Group Members :point_down:
-IT21053528 - Surith Arawwala
+IT21053528 - Surith Arawwala<br>
 IT21077692 - Kavindu Kasthurirathne
 IT20229016 - Chehan Weerasinghe
 IT21016066 - Minuli Samaraweera
