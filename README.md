@@ -1,5 +1,5 @@
 ## TasteBuds Social Media Web Application :yum:
-### Group Memebers: :eyes:
+### Group Members: :eyes:
 IT21053528 - Surith Arawwala<br>
 IT21077692 - Kavindu Kasthurirathne<br>
 IT20229016 - Chehan Weerasinghe<br>
