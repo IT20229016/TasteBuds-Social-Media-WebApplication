@@ -1,9 +1,9 @@
 ## TasteBuds Social Media Web Application :yum:
 ### Group Memebers: :eyes:
-IT21053528 - Surith Arawwala
-IT21077692 - Kavindu Kasthurirathne
-IT20229016 - Chehan Weerasinghe
-IT21016066 - Minuli Samaraweera
+IT21053528 - Surith Arawwala<br>
+IT21077692 - Kavindu Kasthurirathne<br>
+IT20229016 - Chehan Weerasinghe<br>
+IT21016066 - Minuli Samaraweera<br>
 
 ### Brief Description of your Solution :eyes: 
 Welcome to our TasteBuds web application for food lovers and reviewers! We've used the latest technologies such as Spring Boot for the backend and React JS for the frontend, 
